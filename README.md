@@ -23,7 +23,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀᴜᴛᴏ ʀᴇ�
 <h3 align="center">
     ─「 ᴅᴇᴘʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&https://github.com/Codeflix-Bots/AutoRenameBot=&branch=main&name=AutoReanemBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Koyeb-black?style=for-the-badge&logo=Koyeb" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&https://github.com/Michaelsir916/Newreanamers.git=&branch=main&name=Newreanamers"> <img src="https://img.shields.io/badge/Deploy%20On%20Koyeb-black?style=for-the-badge&logo=Koyeb" width="220" height="38.45"/></a></p>
 </h3>
 
 <details><summary><b> - ғᴇᴀᴛᴜʀᴇs :</b></summary>
